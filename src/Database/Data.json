@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Lionel Messi",
+        "phone":"0987654321",
+        "level":1
+    },
+    {
+        "id":2,
+        "name":"Cristiano Ronaldo",
+        "phone":"0123456789",
+        "level":2
+    },
+    {
+        "id":3,
+        "name":"Wayne Rooney",
+        "phone":"0999887766",
+        "level":3
+    },
+    {
+        "id":4,
+        "name":"Frank Lampard",
+        "phone":"0975555666",
+        "level":2
+    },
+    {
+        "id":5,
+        "name":"De Gea",
+        "phone":"0977888999",
+        "level":1
+    },
+    {
+        "id":6,
+        "name":"Issem Lenoil",
+        "phone":"0987654321",
+        "level":1
+    }
+]
